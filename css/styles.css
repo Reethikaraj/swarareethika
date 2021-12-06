@@ -1,0 +1,223 @@
+body{
+  font-family: Montserrat-strong;
+}
+
+h1{
+  font-size: 4.5rem;
+  font-family: Montserrat-strong;
+  text-align: center;
+  line-height: 85px;
+
+}
+.Highlight{
+  font-weight: bolder;
+}
+
+#title{
+  background-color: #F1F1F6;
+
+}
+
+/* Navigation bar */
+
+#navbarSupportedContent{
+  margin-left: 400px;
+}
+
+.socail{
+
+  margin-left: 300px;
+}
+
+
+
+.navbar{
+  padding: 5px 10px;
+}
+
+.navbar-brand{
+  font-family: Itim;
+  font-size: 30px;
+
+}
+
+.dropdn{
+  background-color: #E1CCEC;
+border: none;
+padding: 0 0 10px 0;
+margin: 0;
+font-size: 1rem;
+}
+
+.dropdn:hover{
+  color:  #F1F1F6;
+}
+.navitem{
+  font-size: 1.3rem;
+  font-family: Montserrat-strong;
+  font-weight:normal;
+  margin: 0 10px 0 10px;
+}
+
+
+.online{
+  font-size: 2rem;
+}
+
+.container-fluid{
+  padding: 50px 100px 0 100px;
+}
+
+.titles{
+  padding: 100px 0 100px 0;
+}
+
+                    /* Pictures */
+.logo{
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+.tyagaraja{
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+
+}
+
+.singerround{
+  height: 300px;
+  width: 300px;
+  margin-right: 40px;
+}
+
+/* About section */
+
+#carnatic-music{
+  padding: 120px 0 120px 0;
+  background-color: #E1CCEC;
+}
+
+.benefits{
+  width: 400px;
+  height: 400px;
+}
+
+#Reethika{
+  padding: 50px 0 50px 0;
+  background-color: #FDEFEF;
+}
+
+.reethika{
+  margin: 100px 100px 0 0;
+
+}
+.about{
+  padding: 30px 30px 30px 60px;
+}
+h3{
+  font-family: crimson-pro;
+  font-size: 3.3rem;
+  padding-bottom: 30px;
+
+}
+p{
+  font-family: PT Sans;
+  font-size: 1.5rem;
+  color: #595260;
+  text-align: justify;
+}
+
+/* online classes */
+#class-structure-online{
+  padding: 100px 0 100px 0;
+    background-color: #E1CCEC;
+}
+
+.online{
+  width: 500px;
+  height: 400px;
+  border-radius: 100%;
+  margin: 50px 0 0 30px;
+}
+.high{
+  font-weight: bold;
+}
+
+#fee-structure {
+  background-color: #E1CCEC;
+    padding: 200px 0 200px 0;
+    text-align: center;
+}
+
+.fee{
+  text-align: center;
+}
+
+
+#class-structure-offline{
+  padding: 100px 0 100px 0;
+    background-color: #FDEFEF;
+      }
+
+
+      .feesimage{
+        width: 100px;
+        height: 100px;
+        padding-left: 10px;
+      }
+
+
+.carousel-item{
+  height: 500px;
+}
+
+#testimonials{
+  padding: 50px 0 50px 0;
+  background-color:  #BE9FE1;
+}
+
+.testimonials1{
+
+  margin-top: 50px;
+  text-align: center;
+  padding: 0 50px 0 50px;
+}
+.testimonial-image{
+
+height: 200px;
+width: 200px;
+margin: auto;
+
+
+
+}
+
+.testimonial{
+
+
+  font-size: 1.3rem;
+  text-align: center;
+  color: #F1F1F6;
+
+}
+
+
+
+#sravya{
+
+  transform: rotate(20deg);
+}
+
+#contact{
+  padding: 50px 0 50px 0;
+    background-color: #FDEFEF;
+    text-align: center;
+      }
+
+
+      @media only screen and (max-width: 600px) {
+        .testimonial {
+          font-size: 1rem;
+        }
+      }
